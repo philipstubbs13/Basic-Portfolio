@@ -11,7 +11,6 @@ body {
     margin-left:auto;
     margin-right:auto;
     width:100%;
-    background-image: url('/../images/spiration_dark.png');
 }
 
 html, body {
@@ -29,7 +28,7 @@ h2 {
 .header {
     border: 1px solid #cccccc;
     width: 100%;
-    min-width: 660px;
+    min-width: 1080px;
     height: 80px;
     min-height: 80px;
     top: 0;
@@ -48,8 +47,8 @@ h2 {
     border: 5px solid #4aaaa5;
     background-color: #4aaaa5;
     padding: 20px;
-    width: 15%
-    height: 80px; 
+    width: 15%;
+    height: 30px; 
     left: 50px;
     margin-left: 210px;
 }
@@ -65,6 +64,7 @@ h2 {
     height: 10px;
     min-width: 300px;
     margin-right: 105px;
+    padding-top: 25px;
 }
 
 .topnav a {
@@ -74,17 +74,25 @@ h2 {
     width: 270px;
 }
 
-.topnav a: hover {
-    background-color: #ddd;
-    color: black;
+.topnav a:hover {
+    color: red;
 }
+
+.topnav a:focus {
+    color: orange;
+}
+
+.topnav a:active {
+    color: blue;
+}
+
 
 
 /*------------Main section and sidebar------------ */
 
 .container {
     clear: both;
-    width: 940px;
+    width: 1080px;
     margin: 0 auto;
     flex: 1 0 auto;
     margin-top: 35px;
@@ -98,23 +106,26 @@ padding: 25px 25px 25px 25px
 }
 
 .main-section {
-    width: 543px;
-    max-width: 493px;
+    width: 598px;
+    max-width: 598px;
     min-height: 350px;
-    margin-right:  45px;
-    margin-left: 10px;
+    margin-right:  40px;
+    margin-left: 75px;
     margin-bottom: 50px;
     background-color: white;
 }
 
 .sidebar{
-    width: 198px;
-    max-width: 198px;
+    width: 218px;
+    max-width: 218px;
     min-height: 120px;
     text-align: center;
     background-color: white;
 }
 
+.sidebar a{
+    padding: 3px;
+}
 
 
 p, form, a {
@@ -123,27 +134,38 @@ p, form, a {
     line-height: 150%;
 }
 
+#headshot {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 5px;
+
+}
+
 /*----------SOCIAL ICONS------------*/
 #github-logo {
     width: 40px;
     height: 40px;
 }
 
+
 #linkedin-logo {
     width: 40px;
     height: 40px;
 }
 
-#stackoverflow-logo{
-    width: 38px;
-    height: 35.5px;
+
+#stackoverflow-logo {
+    width: 40px;
+    height: 40px;
 }
+
 
 /*------------PORTFOLIO---------------*/
 .portfolio-container {
   width: 500px;
   height: 200px;
   position: relative;
+  margin: auto;
 }
 
 .image {
@@ -156,7 +178,9 @@ p, form, a {
     float: left;
     margin-left:10px;
     margin-bottom: 20px;
+    padding-top: 20px;
 }
+
 
 #image2 {
     width: 220px;
@@ -164,16 +188,16 @@ p, form, a {
     float: right;
     margin-right: 10px;
     margin-bottom: 20px;
-    
-
+    padding-top: 20px;
 }
 
 #image3 {
     width: 220px;
     height: 220px;
     float: left;
-    margin-left:: 10px;
+    margin-left: 10px;
     margin-bottom: 20px;
+    padding-top: 20px;
 }
 
 #image4 {
@@ -182,14 +206,16 @@ p, form, a {
     float: right;
     margin-right: 10px;
     margin-bottom: 20px;
+    padding-top: 20px;
 }
 
 #image5 {
-    width: : 220px;
+    width: 220px;
     height: 220px;
     float: left;
     margin-left: 10px;
     margin-bottom: 20px;
+    padding-top: 20px;
 }
 
 
@@ -207,17 +233,111 @@ h3 {
     color: #eee;
 }
 
-#text {
+.project {
     z-index: 100;
     position: absolute;
     color: white;
     font-size: 24px;
     font-weight: bold;
-    left: 0px;
-    bottom: 1px;
-    width: 185px;
+    width: 180px;
     height: 30px;
 }
+
+.project1 {
+    position: absolute;
+    left: 10px;
+    top:20px;
+}
+
+.project1:hover {
+    background-color: orange;
+}
+
+.project1:active {
+    background-color: green;
+}
+
+.project2 {
+    position: absolute;
+    right: 10px;
+    top:20px;
+}
+
+.project2:hover {
+    background-color: orange;
+}
+
+.project2:active {
+    background-color: green;
+}
+
+
+.project3 {
+    position: absolute;
+    left: 10px;
+    top: 280px;
+}
+
+.project3:hover {
+    background-color: orange;
+}
+
+.project3:active {
+    background-color: green;
+}
+
+.project4 {
+    position: absolute;
+    right: 10px;
+    top: 280px;
+}
+
+.project4:hover {
+    background-color: orange;
+}
+
+.project4:active {
+    background-color: green;
+}
+
+
+.project5 {
+    position: absolute;
+    left: 10px;
+    top: 540px;
+}
+
+.project5:hover {
+    background-color: orange;
+}
+
+.project5:active {
+    background-color: green;
+}
+
+
+/*-------Contact form-------*/
+
+
+#submit-button {
+    background-color: #4aaaa5;
+    font-size: 15px;
+    padding: 10px;
+    width: 100px;
+    color: white;
+}
+
+#submit-button:hover{
+    background-color: orange;
+}
+
+#submit-button:active {
+    background-color: green;
+}
+
+
+
+
 
 /*--------Copyright----------*/
 
@@ -225,7 +345,7 @@ h3 {
     clear: both;
     margin-bottom: 0;
     background-color: #666666;
-    color: #beb5a9;
+    color: white;
     text-align: center;
     padding-top: 35px;
     padding-bottom:15px;

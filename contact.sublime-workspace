@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"padin",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control Install",
+		"selected_items":
+		[
+			[
+				"Package Control Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/phili/OneDrive/Documents/GitHub/Basic-Portfolio/index.html",
+		"/C/Users/phili/OneDrive/Documents/GitHub/Basic-Portfolio/portfolio.html",
+		"/C/Users/phili/OneDrive/Documents/GitHub/Basic-Portfolio/project1.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/google_fonts_activity/style.css",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/google_fonts_activity/index.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/css_typography_activity/index.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/css_typography_activity/style.css",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/homework/homework_1/Basic-Portfolio/contact.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/homework/homework_1/Basic-Portfolio/assets/css/style.css",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/homework/homework_1/Basic-Portfolio/portfolio.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/homework/homework_1/Basic-Portfolio/index.html",
+		"/C/Users/phili/OneDrive/Documents/GitHub/Basic-Portfolio/assets/css/style.css",
+		"/C/Users/phili/OneDrive/Documents/GitHub/Basic-Portfolio/contact.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/resetcss_activity/example.html",
+		"/C/Users/phili/dev_bootcamp/projects/gopher/index.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/resetcss_activity/reset.css",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/positioning_css_activity2/positioning.css",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/positioning_css_activity2/positioning.html",
+		"/C/Users/phili/dev_bootcamp/projects/philipstubbs13.github.io/index.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/09-FloatLayout-Activity2/floats.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/09-FloatLayout-Activity/floats.css",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/09-FloatLayout-Activity/floats.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/positioning_css_activity/positioning.css",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/positioning_css_activity/positioning.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/01_RelativePaths_Unsolved/Unsolved/RelativePaths_4/HTML/html-bio.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/01_RelativePaths_Unsolved/Unsolved/RelativePaths_3/html-bio.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/01_RelativePaths_Unsolved/Unsolved/RelativePaths_2/html-bio.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/01_RelativePaths_Unsolved/Unsolved/RelativePaths_1/html-bio.html",
+		"/C/Users/phili/OneDrive/Documents/GitHub/Basic-Portfolio/assets/style.css",
+		"/C/Users/phili/OneDrive/Documents/GitHub/Basic-Portfolio/assets/reset.css",
+		"/C/Users/phili/OneDrive/Documents/GitHub/Basic-Portfolio/README.md",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/week1-day2-html-css/student-bio.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/studentbio/studentbio/studentbio.html",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/floats_css_activity/floats.css",
+		"/C/Users/phili/Desktop/dev_bootcamp/projects/studentbio/studentbio.html",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-7/Broken_and_Working_Code/BrokenCode/style.css",
+		"/C/Users/phili/OneDrive/Documents/GitHub/Basic-Portfolio/assets/css/reset.css",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-9/style.css",
+		"/C/Users/phili/Desktop/dev_bootcamp/code/Lesson 1.1/index.html",
+		"/C/Users/phili/Google Drive/PREWORK_PJS/Module-9/style.css",
+		"/C/Users/phili/Google Drive/PREWORK_PJS/Module-10/javascript.js",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-9/index.html",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-10/index.html",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-10/javascript.js",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-7/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-8/fanpage.html",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-7/Broken_and_Working_Code/BrokenCode/logic.js",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-8/My_First_Website.html",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-7/Broken_and_Working_Code/WorkingCode/GrumpyCat.html",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-7/Broken_and_Working_Code/WorkingCode/logic.js",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-7/Broken_and_Working_Code/WorkingCode/style.css",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/index.html",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/hello_world.html",
+		"/C/Users/phili/Desktop/index.html",
+		"/C/Users/phili/Desktop/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+		"/C/Users/phili/Desktop/Broken_and_Working_Code/BrokenCode/logic.js",
+		"/C/Users/phili/Desktop/Broken_and_Working_Code/BrokenCode/style.css",
+		"/C/Users/phili/Desktop/U of M coding bootcamp/PREWORK_PJS/Module-9/chocolate.html",
+		"/C/Users/phili/.ssh/style.css",
+		"/C/Users/phili/Desktop/Broken_and_Working_Code.zip",
+		"/C/Users/phili/.bash_profile",
+		"/C/Users/phili/.ssh/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "contact.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
