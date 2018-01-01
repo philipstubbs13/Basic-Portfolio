@@ -1,2 +1,8 @@
 # Basic-Portfolio
-My Porfolio
+
+## Technologies used
+
+* HTML5
+* CSS
+
+
